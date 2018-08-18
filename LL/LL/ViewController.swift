@@ -1,10 +1,11 @@
 //  ViewController.swift
 //  Created by Maria Susana Moline Venanzi on 4/25/18.
 //  Copyright © 2018 HRApps. All rights reserved.
+//  Rafa Aguirre vamos vamos
 
 
 import UIKit
-import CoreLocation
+import CoreLocations
 import CoreData
 
     
